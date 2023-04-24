@@ -13,4 +13,4 @@ Here are a few things I like doing:
 
 ### Image
 Here is a picture of me and my wife, during our first look moment:
-![Alt text](image link)
+![Alt text](CIT262-Individual-Repository/7I4B8346.jpg)
