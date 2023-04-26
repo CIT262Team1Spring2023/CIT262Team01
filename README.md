@@ -6,4 +6,4 @@ JJ Gresham - I like to watch baseball.
 
 Joshua Herman - I enjoy 3D Printing and Design
 
-Austin Cummins - I love to ride motorcycles!
+Austin Cummins - I love to ride bikes!
