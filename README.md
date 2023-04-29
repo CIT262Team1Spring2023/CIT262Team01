@@ -7,3 +7,5 @@ JJ Gresham - I like to watch baseball.
 Joshua Herman - I enjoy 3D Printing and Design
 
 Austin Cummins - I love to ride bikes!
+
+Caleb Hatch - I like to play guitar!
